@@ -14,7 +14,7 @@ StepperArduino is an Arduino function for controlling the BYJ48 stepper motor.
 
 takeStep(char dir[],int tDelay = 5)
 
-Argument 1: "left" or "right"
-Argument 2: Time delay for speed. Usually between 5 and 15
+* Argument 1: "left" or "right"
+* Argument 2: Time delay for speed. Usually between 5 and 15
 
 
